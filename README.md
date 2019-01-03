@@ -6,9 +6,9 @@ Another episode of flutter thursday.
 ## Getting Started
 
 ```
-git clone anking_app_account_ui
+git clone https://github.com/shubie/banking_app_account_ui.git
 
-cd anking_app_account_ui
+cd banking_app_account_ui
 
 flutter packages get
 
