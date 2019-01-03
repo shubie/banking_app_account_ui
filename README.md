@@ -7,8 +7,12 @@ Another episode of flutter thursday.
 
 ```
 git clone anking_app_account_ui
+
 cd anking_app_account_ui
 
+flutter packages get
+
+flutter run
 
 ```
 
