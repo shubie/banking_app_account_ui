@@ -1,16 +1,14 @@
 # banking_app_account_ui
 
-A new Flutter project.
+Another episode of flutter thursday.
 
+[See entire series here](https://medium.com/@afegbua/flutter-thursday-series-9564d04e63a7), 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+git clone anking_app_account_ui
+cd anking_app_account_ui
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+```
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
